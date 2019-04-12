@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My First App</string>
+
+    <string name="c_button">Compass</string>
+    <string name="a_button">Accelerometer</string>
+    <string name="choose_sensor">P u s h a b l e buttons that are meant to be  pushed</string>
+    <string name="acc_heading">Measurements</string>
+
+</resources>
